@@ -1,0 +1,20 @@
+{
+  "name": "scrape-drupal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "babel-runtime": "^6.26.0",
+    "cheerio": "^1.0.0-rc.3",
+    "moment": "^2.24.0",
+    "rss-parser": "^3.7.5",
+    "sanitize-html": "^1.22.0",
+    "wxr-generator": "0.0.2"
+  }
+}
